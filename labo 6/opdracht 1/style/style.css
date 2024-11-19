@@ -1,0 +1,7 @@
+body > ul > li {
+    display:inline-block;
+    width:150px;
+}
+body > ul > li > a {
+    color:red;
+}

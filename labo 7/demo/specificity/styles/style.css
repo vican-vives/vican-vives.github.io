@@ -1,0 +1,8 @@
+header.hoofd h1{ /*0012*/
+    color: gray}
+
+header h1 { /*0002*/
+    color: blue}
+
+h1 { /*0001*/
+    color: red}
