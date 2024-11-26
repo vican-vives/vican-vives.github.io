@@ -1,0 +1,45 @@
+body {
+    background-color: lightgray;
+    width: 90%;
+    margin:auto;
+}
+
+header img{
+    display: block;
+    margin:auto;
+}
+
+nav {
+    background-color: white;
+    float:left;
+    width:20%;
+    height:200px;
+}
+
+nav li {
+    list-style: none;
+}
+
+section {
+    background-color: darkred;
+    float:left;
+    width: 80%;
+    height:200px;
+    padding: 10px;
+    border: 2px solid black;
+    box-sizing:border-box;
+}
+
+span {
+    background-color: green;
+    width:400px;
+    margin:20px;
+    padding:20px;
+}
+
+footer {
+    background-color: green;
+    clear:both;
+    height: 120px;
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+p {
+    border: black solid 1px;
+    padding: 10px;
+    float: left;
+    width: 47%;
+    box-sizing: border-box;
+    margin: 10px;
+}
