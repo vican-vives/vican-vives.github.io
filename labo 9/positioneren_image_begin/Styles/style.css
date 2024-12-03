@@ -1,0 +1,31 @@
+body {
+    font-size: 1.25em;
+}
+
+article {
+    border: 1px solid black;
+    margin: 10px;
+    overflow: auto;
+    vertical-align: middle;
+}
+
+h2 {
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+img {
+    margin: 10px;
+
+}
+
+article:nth-child(odd) > p > img {
+    float: left;
+}
+
+article:nth-child(even) > p > img{
+    float: right;
+}
