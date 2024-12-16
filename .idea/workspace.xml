@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,24 +29,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/labo 7/opdracht persoonlijke homepagina met CSS&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/labo 10/opdracht persoonlijke homepagina met bootstrap/style",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 7\opdracht persoonlijke homepagina met CSS" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 10\opdracht persoonlijke homepagina met bootstrap\style" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 10" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 10\Begin_situatie_mediaQueries\CSS" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 11\demo\Bootstrap\style" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 10\composition A\style" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -75,7 +79,10 @@
       <workItem from="1732095893524" duration="7141000" />
       <workItem from="1732653811703" duration="6298000" />
       <workItem from="1732700670333" duration="7171000" />
-      <workItem from="1733236046888" duration="3511000" />
+      <workItem from="1733236046888" duration="3722000" />
+      <workItem from="1733859583777" duration="2327000" />
+      <workItem from="1733910456086" duration="7454000" />
+      <workItem from="1734347683945" duration="5896000" />
     </task>
     <servers />
   </component>
