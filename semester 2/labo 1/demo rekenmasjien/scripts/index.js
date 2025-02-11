@@ -4,7 +4,7 @@ const setup = () => {
 	let btnAftrekken=document.getElementById("btnAftrekken");
 	let btnVermenigvuldigen=document.getElementById("btnVermenigvuldigen");
 	let btnDelen=document.getElementById("btnDelen");
-	
+
 	btnOptellen.addEventListener("click", optellen);
 	btnAftrekken.addEventListener("click", aftrekken);
 	btnVermenigvuldigen.addEventListener("click", vermenigvuldigen);
