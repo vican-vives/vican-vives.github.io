@@ -13,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,7 +36,7 @@
     &quot;Node.js.arrays.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/semester 2/labo 2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/semester 2/labo 3&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -49,11 +49,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 3" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 3\opdracht 2" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 2" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 10\opdracht persoonlijke homepagina met bootstrap\style" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 10" />
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 10\Begin_situatie_mediaQueries\CSS" />
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 11\demo\Bootstrap\style" />
     </key>
   </component>
   <component name="RunManager">
@@ -101,6 +101,12 @@
       <workItem from="1738585097158" duration="7144000" />
       <workItem from="1738677284055" duration="1069000" />
       <workItem from="1739277779199" duration="7448000" />
+      <workItem from="1739363315074" duration="1558000" />
+      <workItem from="1739868997560" duration="10851000" />
+      <workItem from="1739959951135" duration="5045000" />
+      <workItem from="1740037922023" duration="601000" />
+      <workItem from="1740040498750" duration="2957000" />
+      <workItem from="1740046118656" duration="3658000" />
     </task>
     <servers />
   </component>

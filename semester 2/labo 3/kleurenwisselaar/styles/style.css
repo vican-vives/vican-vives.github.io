@@ -1,0 +1,10 @@
+span {
+    margin: 0.5em;
+    font-size: 200%;
+    border: solid 2px black;
+}
+
+.kleur {
+    background-color: lightblue;
+    color: white;
+}
