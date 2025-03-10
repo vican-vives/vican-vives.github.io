@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>opdracht invulformulier</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="first name">First Name*:</label>
+            <input type="text" id="first name" placeholder="Your first name" required/>
+            <br/>
+            <label for="last name">Last Name*:</label>
+            <input type="text" id="last name" placeholder="Your last name" required/>
+        </fieldset>
+        <fieldset>
+            <legend>Sport</legend>
+            <p>Which sport do you train?</p>
+            <input type="checkbox" id="running">
+            <label for="running">Running</label>
+            <br/>
+            <input type="checkbox" id="swimming">
+            <label for="swimming">Swimming</label>
+            <br/>
+            <input type="checkbox" id="rowing">
+            <label for="rowing">Rowing</label>
+        </fieldset>
+        <fieldset>
+            <legend>Gender</legend>
+            <input type="radio" id="male">
+            <label for="male">Male</label>
+            <br/>
+            <input type="radio" id="female">
+            <label for="female">Female</label>
+            <br/>
+            <input type="radio" id="other">
+            <label for="other">Other / Prefer not to say</label>
+        </fieldset>
+        <fieldset>
+            <label for="favorite movie">Favorite movie:</label>
+            <input type="text" id="favorite movie"/>
+            <br/>
+            <label for="favorite quote">Favorite quote:</label>
+            <input type="text" id="favorite quote" placeholder="Write your favorite quote"/>
+            <br/>
+            <label for="favorite food">Favorite food:</label>
+            <select id="favorite food">
+                <option value="pizza">Pizza</option>
+                <option value="hotdog">Hotdog</option>
+                <option value="hamburger">Hamburger</option>
+            </select>
+            <br/>
+            <label for="flavor">Choose a flavor:</label>
+            <input type="text" id="flavor" placeholder=""/>
+        </fieldset>
+        <fieldset>
+            <legend>Security & Contact</legend>
+            <label for="password">Password*:</label>
+            <input type="password" id="password" required>
+            <br>
+            <label for="email">Email address*:</label>
+            <input type="email" id="email" placeholder="Enter your email address">
+            <br>
+            <label for="favorite_site">Favorite site:</label>
+            <input type="url" id="favorite_site" placeholder="Enter the URL of your favorite site"><br>
+        </fieldset>
+        <fieldset>
+            <legend>Additional Information</legend>
+            <label for="favorite number">Favorite number (1-10):</label>
+            <input type="number" id="favorite number" min="1" max="10">
+            <br>
+            <label for="other favorite number">Favorite number (11-1000):</label>
+            <input type="range" id="other favorite number" min="11" max="1000">
+            <br>
+            <label for="date">When were you born?</label>
+            <input type="date" id="date">
+            <br>
+            <label for="zipcode">Belgium zip-code reg number*:</label>
+            <input type="text" id="zipcode" placeholder="9999"><br>
+        </fieldset>
+        <fieldset>
+            <legend>Miscellaneous</legend>
+            <label for="search">Search for something:</label>
+            <input type="search" id="search">
+            <br>
+            <label for="color">What is your favorite color?</label>
+            <input type="color" id="color">
+            <br>
+            <label for="file">Upload a file:</label>
+            <input type="file" id="file"><br>
+        </fieldset>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
