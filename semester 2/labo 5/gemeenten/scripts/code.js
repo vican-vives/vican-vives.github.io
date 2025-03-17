@@ -4,7 +4,8 @@ const setup = () => {
     let uitvoer = ""
     while (invoer !== "stop") {
         invoer = window.prompt("gemeente:");
-        uitvoer += "<option>"+invoer+"</option>";
+        if (invoer !== "stop")
+            uitvoer += "<option>"+invoer+"</option>";
     }
     ul.innerHTML = uitvoer;
 }
