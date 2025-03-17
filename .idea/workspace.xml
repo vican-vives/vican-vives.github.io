@@ -30,30 +30,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Node.js.arrays.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/semester 2/labo 4",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Node.js.arrays.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/semester 2/labo 5&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 5" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 4" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 3" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 3\opdracht 2" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 2" />
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\labo 10\opdracht persoonlijke homepagina met bootstrap\style" />
     </key>
   </component>
   <component name="RunManager">
@@ -109,7 +109,9 @@
       <workItem from="1740046118656" duration="3808000" />
       <workItem from="1740762603609" duration="20000" />
       <workItem from="1741199165591" duration="91000" />
-      <workItem from="1741629807476" duration="6573000" />
+      <workItem from="1741629807476" duration="6713000" />
+      <workItem from="1741684684901" duration="9226000" />
+      <workItem from="1742235592161" duration="2717000" />
     </task>
     <servers />
   </component>
