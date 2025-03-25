@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,7 +36,7 @@
     &quot;Node.js.arrays.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/semester 2/labo 5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/semester 2/labo 6&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -49,11 +49,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 6" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 6\demo" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\test js" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 5" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 4" />
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 3" />
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 3\opdracht 2" />
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 2" />
     </key>
   </component>
   <component name="RunManager">
@@ -111,7 +111,10 @@
       <workItem from="1741199165591" duration="91000" />
       <workItem from="1741629807476" duration="6713000" />
       <workItem from="1741684684901" duration="9226000" />
-      <workItem from="1742235592161" duration="3387000" />
+      <workItem from="1742235592161" duration="3629000" />
+      <workItem from="1742287609721" duration="10820000" />
+      <workItem from="1742458754529" duration="115000" />
+      <workItem from="1742911578269" duration="2083000" />
     </task>
     <servers />
   </component>
