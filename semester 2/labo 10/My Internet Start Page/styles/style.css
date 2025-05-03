@@ -1,0 +1,63 @@
+label {
+    display: block;
+}
+
+input[type="text"] {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.commandStructure {
+    font-size: 0.8rem;
+}
+
+#btnGo {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+#Google {
+    background-color: royalblue;
+    color: white;
+}
+
+#btn-Google {
+    background-color: orangered;
+    border: none;
+}
+
+#Youtube {
+    background-color: red;
+    color: white;
+}
+
+#btn-Youtube {
+    background-color: black;
+    border: none;
+}
+
+#X {
+    background-color: black;
+    color: white;
+}
+
+#btn-X {
+    background-color: white;
+    color: black;
+    border: none;
+}
+
+#Instagram {
+    background-color: darkmagenta;
+    color: white;
+}
+
+#btn-Instagram {
+    background-color: orange;
+    border: none;
+}
+
