@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>takenlijst</title>
+</head>
+<body>
+<h1>Kanban To-Do</h1>
+<input type="text" id="txttitel" placeholder="titel"/>
+<input type="text" id="txtbeschrijving" placeholder="beschrijving"/>
+<input type="button" id="btntaaktoevoegen" value="voeg taak toe">
+<div class="board">
+    <div class="column" id="todo" data-status="todo">
+        <h3>To Do</h3>
+    </div>
+    <div class="column" id="inprogress" data-status="inprogress">
+        <h3>In Progress</h3>
+    </div>
+    <div class="column" id="done" data-status="done">
+        <h3>Done</h3>
+    </div>
+</div>
+
+<script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+</body>
+</html>

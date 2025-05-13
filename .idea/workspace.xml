@@ -36,7 +36,7 @@
     &quot;Node.js.arrays.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/semester 2/labo 10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documenten/GitHub/labos-web-development-1/semester 2/labo 12&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -49,11 +49,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 12" />
+      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 12\demo" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 10" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 8" />
       <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 8\demo" />
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 6" />
-      <recent name="C:\Users\victo\OneDrive\Documenten\GitHub\labos-web-development-1\semester 2\labo 6\demo" />
     </key>
   </component>
   <component name="RunManager">
@@ -123,7 +123,8 @@
       <workItem from="1745913901554" duration="9998000" />
       <workItem from="1746289945127" duration="2609000" />
       <workItem from="1746518319855" duration="9088000" />
-      <workItem from="1746534366532" duration="4020000" />
+      <workItem from="1746534366532" duration="4321000" />
+      <workItem from="1747122962012" duration="9820000" />
     </task>
     <servers />
   </component>
